@@ -9,6 +9,5 @@
       ]
     }
   },
- 'processing' errors
   "postCreateCommand": "bash .devcontainer/install-playwright.sh"
 }
